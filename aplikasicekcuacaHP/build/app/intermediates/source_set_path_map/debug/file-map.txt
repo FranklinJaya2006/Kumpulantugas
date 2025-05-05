@@ -1,0 +1,12 @@
+com.example.weather.app-jetified-window-1.0.0-beta04-0 /Users/mbp/.gradle/caches/transforms-3/0e1fe3c9069ea1bc5ecfc6b349cbd38f/transformed/jetified-window-1.0.0-beta04/res
+com.example.weather.app-jetified-annotation-experimental-1.1.0-1 /Users/mbp/.gradle/caches/transforms-3/3f24deeb77977edbb47db48461b9f6aa/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.weather.app-jetified-window-java-1.0.0-beta04-2 /Users/mbp/.gradle/caches/transforms-3/3fe57bd5d3c2ce0f0ac71f2b847a1090/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.weather.app-core-1.6.0-3 /Users/mbp/.gradle/caches/transforms-3/a766ebd4f8d1071b0d3866a36858c9da/transformed/core-1.6.0/res
+com.example.weather.app-debug-4 /Users/mbp/Documents/aplikasi HP flutter cek cuaca copy/weather/android/app/src/debug/res
+com.example.weather.app-main-5 /Users/mbp/Documents/aplikasi HP flutter cek cuaca copy/weather/android/app/src/main/res
+com.example.weather.app-pngs-6 /Users/mbp/Documents/aplikasi HP flutter cek cuaca copy/weather/build/app/generated/res/pngs/debug
+com.example.weather.app-resValues-7 /Users/mbp/Documents/aplikasi HP flutter cek cuaca copy/weather/build/app/generated/res/resValues/debug
+com.example.weather.app-rs-8 /Users/mbp/Documents/aplikasi HP flutter cek cuaca copy/weather/build/app/generated/res/rs/debug
+com.example.weather.app-mergeDebugResources-9 /Users/mbp/Documents/aplikasi HP flutter cek cuaca copy/weather/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.weather.app-mergeDebugResources-10 /Users/mbp/Documents/aplikasi HP flutter cek cuaca copy/weather/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.weather.app-merged_res-11 /Users/mbp/Documents/aplikasi HP flutter cek cuaca copy/weather/build/app/intermediates/merged_res/debug
